@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/TenetiSrujana/SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TenetiSrujana/SQL/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/TenetiSrujana/SQL/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/TenetiSrujana/SQL/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/TenetiSrujana/SQL/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/TenetiSrujana/SQL/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/TenetiSrujana/SQL/tree/master/1070-product-sales-analysis-iii) |
